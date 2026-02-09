@@ -54,6 +54,17 @@
 [spec-badge]: https://img.shields.io/badge/spec-spec.modelcontextprotocol.io-blue.svg
 [spec-url]: https://modelcontextprotocol.io/specification/latest
 
+## 🚀 Szybki start dla studentów
+
+**Dla studentów Politechniki Rzeszowskiej:** Zobacz [SZYBKI_START.md](./SZYBKI_START.md) - wprowadzenie w 5 minut!
+
+**Pełna dokumentacja po polsku:**
+- 📖 [SZYBKI_START.md](./SZYBKI_START.md) - Start w 5 minut
+- 📚 [PRZEWODNIK_STUDENTA.md](./PRZEWODNIK_STUDENTA.md) - Kompletny przewodnik
+- 🤖 [UNITREE_G1_PRZEWODNIK.md](./UNITREE_G1_PRZEWODNIK.md) - Robot Unitree G1
+- 🎓 [docs/tutorial_pl.md](./docs/tutorial_pl.md) - Tutorial krok po kroku
+- 💻 [examples/README_PL.md](./examples/README_PL.md) - Przewodnik po przykładach
+
 ## Przegląd
 
 **Model Context Protocol (MCP)** pozwala aplikacjom dostarczać kontekst dla modeli językowych (LLM) w ustandaryzowany sposób, oddzielając zagadnienia dostarczania kontekstu od właściwej interakcji z LLM. 
@@ -72,6 +83,17 @@
 - **Tworzenie serwerów MCP** - które udostępniają zasoby (Resources), szablony (Prompts) i narzędzia (Tools)
 - **Użycie standardowych transportów** - takich jak stdio, SSE, i Streamable HTTP
 - **Obsługę wszystkich komunikatów protokołu MCP** - i zdarzeń cyklu życia
+
+## 🚀 Szybki start dla studentów
+
+**Dla studentów Politechniki Rzeszowskiej:** Zobacz [SZYBKI_START.md](./SZYBKI_START.md) - wprowadzenie w 5 minut!
+
+**Pełna dokumentacja po polsku:**
+- 📖 [SZYBKI_START.md](./SZYBKI_START.md) - Start w 5 minut
+- 📚 [PRZEWODNIK_STUDENTA.md](./PRZEWODNIK_STUDENTA.md) - Kompletny przewodnik
+- 🤖 [UNITREE_G1_PRZEWODNIK.md](./UNITREE_G1_PRZEWODNIK.md) - Robot Unitree G1
+- 🎓 [docs/tutorial_pl.md](./docs/tutorial_pl.md) - Tutorial krok po kroku
+- 💻 [examples/README_PL.md](./examples/README_PL.md) - Przewodnik po przykładach
 
 ## Instalacja
 
